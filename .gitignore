@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/VLKAssignement/VLKAssignement.API/obj
+/VLKAssignement/VLKAssignement.DataAccess/obj
+/VLKAssignement/VLKAssignement.Domain/obj
+/VLKAssignement/VLKAssignement.Service/obj
+/VLKAssignement/VLKAssignement.Service.Test/obj
